@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mamito\\Desktop\\AWS_SDK_DotNet_Auto_Scaling_Project\\Worker_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDA9285-DBBD-4236-B07B-1308714F5E17}|Worker_api\\Worker_api.csproj|c:\\users\\mamito\\desktop\\aws_sdk_dotnet_auto_scaling_project\\worker_api\\worker_api\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDA9285-DBBD-4236-B07B-1308714F5E17}|Worker_api\\Worker_api.csproj|solutionrelative:worker_api\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDA9285-DBBD-4236-B07B-1308714F5E17}|Worker_api\\Worker_api.csproj|C:\\Users\\mamito\\Desktop\\AWS_SDK_DotNet_Auto_Scaling_Project\\Worker_api\\worker_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DDA9285-DBBD-4236-B07B-1308714F5E17}|Worker_api\\Worker_api.csproj|solutionrelative:worker_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDA9285-DBBD-4236-B07B-1308714F5E17}|Worker_api\\Worker_api.csproj|C:\\Users\\mamito\\Desktop\\AWS_SDK_DotNet_Auto_Scaling_Project\\Worker_api\\worker_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DDA9285-DBBD-4236-B07B-1308714F5E17}|Worker_api\\Worker_api.csproj|solutionrelative:worker_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDA9285-DBBD-4236-B07B-1308714F5E17}|Worker_api\\Worker_api.csproj|C:\\Users\\mamito\\Desktop\\AWS_SDK_DotNet_Auto_Scaling_Project\\Worker_api\\worker_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDA9285-DBBD-4236-B07B-1308714F5E17}|Worker_api\\Worker_api.csproj|solutionrelative:worker_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mamito\\Desktop\\AWS_SDK_DotNet_Auto_Scaling_Project\\Worker_api\\Worker_api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Worker_api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mamito\\Desktop\\AWS_SDK_DotNet_Auto_Scaling_Project\\Worker_api\\Worker_api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Worker_api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T10:55:15.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mamito\\Desktop\\AWS_SDK_DotNet_Auto_Scaling_Project\\Worker_api\\Worker_api\\Program.cs",
+              "RelativeDocumentMoniker": "Worker_api\\Program.cs",
+              "ToolTip": "C:\\Users\\mamito\\Desktop\\AWS_SDK_DotNet_Auto_Scaling_Project\\Worker_api\\Worker_api\\Program.cs",
+              "RelativeToolTip": "Worker_api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:16:35.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mamito\\Desktop\\AWS_SDK_DotNet_Auto_Scaling_Project\\Worker_api\\Worker_api\\appsettings.json",
+              "RelativeDocumentMoniker": "Worker_api\\appsettings.json",
+              "ToolTip": "C:\\Users\\mamito\\Desktop\\AWS_SDK_DotNet_Auto_Scaling_Project\\Worker_api\\Worker_api\\appsettings.json",
+              "RelativeToolTip": "Worker_api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T09:15:13.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkerController.cs",
+              "DocumentMoniker": "C:\\Users\\mamito\\Desktop\\AWS_SDK_DotNet_Auto_Scaling_Project\\Worker_api\\Worker_api\\Controllers\\WorkerController.cs",
+              "RelativeDocumentMoniker": "Worker_api\\Controllers\\WorkerController.cs",
+              "ToolTip": "C:\\Users\\mamito\\Desktop\\AWS_SDK_DotNet_Auto_Scaling_Project\\Worker_api\\Worker_api\\Controllers\\WorkerController.cs",
+              "RelativeToolTip": "Worker_api\\Controllers\\WorkerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:58:40.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

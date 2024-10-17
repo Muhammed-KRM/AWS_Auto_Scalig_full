@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xnW3k7ZVJkRbnrR1Ol47wwyEUKQvdzZR+cnTU1OkSDWaHx+Fw3Nce1YvTkZyRl4G9uk888VYz3YJRLFSaDJu+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mamito\\Desktop\\AWS_SDK_DotNet_Auto_Scaling_Project\\Worker_api\\Worker_api\\Worker_api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mamito\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\mamito\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mamito\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\mamito\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\mamito\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\mamito\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,1 @@
+Worker_api sadece bir örnek dosyadır önemli olan Auto_Scaling dosyasıdır dökümanda tüm kodun nasıl işlediği hakkında bilgi bulunuyor

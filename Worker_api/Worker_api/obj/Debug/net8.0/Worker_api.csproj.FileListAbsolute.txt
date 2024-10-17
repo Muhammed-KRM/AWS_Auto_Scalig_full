@@ -1,0 +1,97 @@
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\bin\Debug\net8.0\appsettings.Development.json
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\bin\Debug\net8.0\appsettings.json
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\bin\Debug\net8.0\Worker_api.exe
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\bin\Debug\net8.0\Worker_api.deps.json
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\bin\Debug\net8.0\Worker_api.runtimeconfig.json
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\bin\Debug\net8.0\Worker_api.dll
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\bin\Debug\net8.0\Worker_api.pdb
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.csproj.AssemblyReference.cache
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.AssemblyInfoInputs.cache
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.AssemblyInfo.cs
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.csproj.CoreCompileInputs.cache
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.MvcApplicationPartsAssemblyInfo.cs
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.MvcApplicationPartsAssemblyInfo.cache
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\obj\Debug\net8.0\staticwebassets.build.json
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\obj\Debug\net8.0\staticwebassets.development.json
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\obj\Debug\net8.0\staticwebassets\msbuild.Worker_api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\obj\Debug\net8.0\staticwebassets\msbuild.build.Worker_api.props
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Worker_api.props
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Worker_api.props
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\obj\Debug\net8.0\scopedcss\bundle\Worker_api.styles.css
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.csproj.Up2Date
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.dll
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\obj\Debug\net8.0\refint\Worker_api.dll
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.pdb
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.genruntimeconfig.cache
+D:\visual studio\projelerim\AWS_Test\Worker_api\Worker_api\obj\Debug\net8.0\ref\Worker_api.dll
+C:\Users\mamito\Desktop\Worker_api\Worker_api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mamito\Desktop\Worker_api\Worker_api\bin\Debug\net8.0\appsettings.json
+C:\Users\mamito\Desktop\Worker_api\Worker_api\bin\Debug\net8.0\Worker_api.exe
+C:\Users\mamito\Desktop\Worker_api\Worker_api\bin\Debug\net8.0\Worker_api.deps.json
+C:\Users\mamito\Desktop\Worker_api\Worker_api\bin\Debug\net8.0\Worker_api.runtimeconfig.json
+C:\Users\mamito\Desktop\Worker_api\Worker_api\bin\Debug\net8.0\Worker_api.dll
+C:\Users\mamito\Desktop\Worker_api\Worker_api\bin\Debug\net8.0\Worker_api.pdb
+C:\Users\mamito\Desktop\Worker_api\Worker_api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mamito\Desktop\Worker_api\Worker_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mamito\Desktop\Worker_api\Worker_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mamito\Desktop\Worker_api\Worker_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mamito\Desktop\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.csproj.AssemblyReference.cache
+C:\Users\mamito\Desktop\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamito\Desktop\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.AssemblyInfoInputs.cache
+C:\Users\mamito\Desktop\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.AssemblyInfo.cs
+C:\Users\mamito\Desktop\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.csproj.CoreCompileInputs.cache
+C:\Users\mamito\Desktop\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mamito\Desktop\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mamito\Desktop\Worker_api\Worker_api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mamito\Desktop\Worker_api\Worker_api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mamito\Desktop\Worker_api\Worker_api\obj\Debug\net8.0\staticwebassets\msbuild.Worker_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mamito\Desktop\Worker_api\Worker_api\obj\Debug\net8.0\staticwebassets\msbuild.build.Worker_api.props
+C:\Users\mamito\Desktop\Worker_api\Worker_api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Worker_api.props
+C:\Users\mamito\Desktop\Worker_api\Worker_api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Worker_api.props
+C:\Users\mamito\Desktop\Worker_api\Worker_api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mamito\Desktop\Worker_api\Worker_api\obj\Debug\net8.0\scopedcss\bundle\Worker_api.styles.css
+C:\Users\mamito\Desktop\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.csproj.Up2Date
+C:\Users\mamito\Desktop\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.dll
+C:\Users\mamito\Desktop\Worker_api\Worker_api\obj\Debug\net8.0\refint\Worker_api.dll
+C:\Users\mamito\Desktop\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.pdb
+C:\Users\mamito\Desktop\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.genruntimeconfig.cache
+C:\Users\mamito\Desktop\Worker_api\Worker_api\obj\Debug\net8.0\ref\Worker_api.dll
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\bin\Debug\net8.0\appsettings.json
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\bin\Debug\net8.0\Worker_api.exe
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\bin\Debug\net8.0\Worker_api.deps.json
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\bin\Debug\net8.0\Worker_api.runtimeconfig.json
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\bin\Debug\net8.0\Worker_api.dll
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\bin\Debug\net8.0\Worker_api.pdb
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.csproj.AssemblyReference.cache
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.AssemblyInfoInputs.cache
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.AssemblyInfo.cs
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.csproj.CoreCompileInputs.cache
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.sourcelink.json
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\staticwebassets\msbuild.Worker_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\staticwebassets\msbuild.build.Worker_api.props
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Worker_api.props
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Worker_api.props
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\scopedcss\bundle\Worker_api.styles.css
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.csproj.Up2Date
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.dll
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\refint\Worker_api.dll
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.pdb
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\Worker_api.genruntimeconfig.cache
+C:\Users\mamito\Desktop\AWS_SDK_DotNet_Auto_Scaling_Project\Worker_api\Worker_api\obj\Debug\net8.0\ref\Worker_api.dll
